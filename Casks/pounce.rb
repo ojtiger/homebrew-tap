@@ -23,10 +23,4 @@ cask "pounce" do
     "~/Library/Logs/pounce.log",
     "~/Library/Preferences/dev.tungsten.pounce.plist",
   ]
-
-  caveats do
-    <<~EOS
-      첫 실행 때 접근성 권한을 허용해야 카드가 뜹니다.
-    EOS
-  end
 end
