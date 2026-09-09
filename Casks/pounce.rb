@@ -1,6 +1,6 @@
 cask "pounce" do
-  version "0.9.4"
-  sha256 "f473d457462953d8b2b730fe5ad3bbf713e494f7ac0cc98bc4f134c9fca47ae0"
+  version "0.9.5"
+  sha256 "4d762e8ebb066313842662b9f86634f350b402b23fd518f69568bbb90fc74b2f"
 
   url "https://github.com/ojtiger/pounce/releases/download/v#{version}/Pounce-#{version}.zip"
   name "Pounce"
